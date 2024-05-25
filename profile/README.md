@@ -1,9 +1,11 @@
 ## Welcome back, DOBEETEAM
 
+This is a team created by @andyngojs and it brings a purpose build a tech community and develop outsourcing, open-source for the community.
 
+### 🌐 Connect with us
+**Discord**: [Dobeeteam Community](https://discord.com/invite/3CfxS5rmdp)
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
