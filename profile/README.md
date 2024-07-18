@@ -3,7 +3,7 @@
 This is a team created by @andyngojs and it brings a purpose build a tech community and develop outsourcing, open-source for the community.
 
 ### 🌐 Connect with us
-**Discord**: [Dobeeteam Community](https://discord.gg/3CfxS5rmdp)
+**Discord**: [Dobeeteam Community](https://discord.gg/H3d5CYAhfA)
 
 **Facebook**: https://fb.com
 
